@@ -34,5 +34,37 @@ This is MERN Stack project. This is Doc-Appointment-system project usingmern sta
 12. This is doctor notification page. Here the doctor will receive a notification that his doctor account request has been approved.
 ![docNotification](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/604112b2-1b9c-4cf8-991e-a06f31bcd2cd)
 
+13. Then the patient doctor will select the problem in his body. Suppose selected Rahul Biswas. Then the patient was redirected to the booking page. Here first set patient date and own time. Then the doctor will click on check availbility to check whether the doctor is available or not. If the doctor is available then the patient can book.
+![bookingPage](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/33eef701-5298-4292-bf1f-214d5f124daa)
+
+14. After that, if you click on patient book now, the doctor will be booked like date and time
+![bookingSuccess](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/d2be983d-1381-4ea2-9c6b-09acb571796b)
+
+15. Then after booking the patient, that notification will come to the doctor. If the doctor approves this time, then the appointment will be booked.
+![approveApp](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/03bf2394-28eb-4861-9cd3-cbae4ac5f02b)
+
+16. Then the patient can check the status of his appointment list. If the doctor approves the appointment then the patient status will show approved.
+![patientApp](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/46a3a585-a3ac-433a-a2b1-225eba60a3f2)
+
+17. And at the end the notification will come to the patient your appointment has been updated approved.
+![p2notification](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/b16a21a9-6565-4455-a118-14bc0761b7ae)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
