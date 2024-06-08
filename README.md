@@ -31,4 +31,8 @@ This is MERN Stack project. This is Doc-Appointment-system project usingmern sta
 11. This time Rahul Biswas got approval as a doctor. Then the Apply Doctor component will not show in his account.
 ![biswasDoctor](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/f214d209-a038-49ba-839a-cf952d34abc6)
 
+12. This is doctor notification page. Here the doctor will receive a notification that his doctor account request has been approved.
+![docNotification](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/604112b2-1b9c-4cf8-991e-a06f31bcd2cd)
+
+
 
