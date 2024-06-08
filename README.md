@@ -9,3 +9,10 @@ This is MERN Stack project. This is Doc-Appointment-system project usingmern sta
 
 4. This is the patient dashboard page. Here patient can be redirected after login. Actually this page is for three people patient, doctor. When admin login he will redirect to his admin page. Here when any doctor will login then if he wants to apply for doctor then he will redirect to apply doctor page. And what the patient can see here is that there are any doctors in the home. And will look at specialization.
 ![patientDashboard](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/8bada4ea-00a8-4a74-a672-db0d43e61a88)
+
+5. This is the notification page. Here is the patient Notification can see whether the doctor has approved the patient's appointment or not. If the doctor approves, the notification will come to the patient.
+![notificationPage](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/e5c848be-546e-41fd-a4bd-ebc594298306)
+
+6. When the doctor approves the patient's appointment. Then the patients will see the appointment list on the dashboard page. And can check patient status.
+![appointmetList](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/e8c95504-05c5-4580-89ea-766109be4003)
+
