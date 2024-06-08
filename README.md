@@ -26,5 +26,5 @@ This is MERN Stack project. This is Doc-Appointment-system project usingmern sta
 ![userAdmin](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/6d89a03f-daf5-4f80-a3bd-498a62030231)
 
 10. This is the admin notification page. Here the notification will come to the admin. Who is applying for doctor.
-![adminNotificationPage](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/4cc586b5-87cf-47f8-b238-b70d115979c7)
+![adminNotificationpage](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/4cc586b5-87cf-47f8-b238-b70d115979c7)
 
