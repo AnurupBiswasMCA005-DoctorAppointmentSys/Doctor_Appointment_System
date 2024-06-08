@@ -16,3 +16,12 @@ This is MERN Stack project. This is Doc-Appointment-system project usingmern sta
 6. When the doctor approves the patient's appointment. Then the patients will see the appointment list on the dashboard page. And can check patient status.
 ![appointmetList](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/e8c95504-05c5-4580-89ea-766109be4003)
 
+7. Suppose there is a person named Rahul who is a doctor. He want to apply here as doctor. And it is a doctor application form. 
+![applyDoctor](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/4d714f09-f3ea-4d79-a852-c5eabf5c48f4)
+
+8. Here the admin will approve rahul as a doctor.
+![Admin](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/eb6bfacb-3b9b-44b0-b85d-5d23c0f22c2c)
+
+9. This is the user component or user list of the admin page. Admin can see the details of patients and doctors here. And admin can see who the doctor is.
+![userAdmin](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/6d89a03f-daf5-4f80-a3bd-498a62030231)
+ 
