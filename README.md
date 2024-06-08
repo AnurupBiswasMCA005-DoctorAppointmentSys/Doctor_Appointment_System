@@ -24,4 +24,7 @@ This is MERN Stack project. This is Doc-Appointment-system project usingmern sta
 
 9. This is the user component or user list of the admin page. Admin can see the details of patients and doctors here. And admin can see who the doctor is.
 ![userAdmin](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/6d89a03f-daf5-4f80-a3bd-498a62030231)
- 
+
+10. This is the admin notification page. Here the notification will come to the admin. Who is applying for doctor.
+![adminNotificationPage](https://github.com/AnurupBiswasMCA005-DoctorAppointmentSys/doctor_appointment_system/assets/172072445/4cc586b5-87cf-47f8-b238-b70d115979c7)
+
